@@ -109,6 +109,7 @@
    - [How to Build an Open Source Business](https://www.youtube.com/watch?v=c9SJAPxU5bs)
    - [How do I start working with Open Source and GitHub?](https://www.youtube.com/watch?v=lyiBnyPPnG4)
    - [The mind behind Linux | Linus Torvalds](https://www.youtube.com/watch?v=o8NPllzkFhE)
+   - [Panel: Open source in Africa](https://www.youtube.com/watch?v=CFvwIX-gjSI)
    
 </details>
   
