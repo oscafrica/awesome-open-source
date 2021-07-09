@@ -28,6 +28,7 @@
     
    - [Open Source Guides](https://opensource.guide)
    - [Make your first open-source contribution](https://dev.to/denicmarko/make-your-first-open-source-contribution-4b0n)
+   - [How to become an Open Source Contributor](https://taskwarrior.org/docs/first_time.html)
    - [Getting started with contributing to open source<](https://stackoverflow.blog/2020/08/03/getting-started-with-contributing-to-open-source/)
    - [How To Contribute To Open Source: Getting Started With Git](https://www.digitalocean.com/community/tutorials/how-to-contribute-to-open-source-getting-started-with-git)
    - [How getting into Open Source has been awesome for me](https://kentcdodds.com/blog/how-getting-into-open-source-has-been-awesome-for-me)
@@ -56,6 +57,20 @@
    - [Why you shouldn’t write your own open source license](https://ben.balter.com/2016/08/01/why-you-shouldnt-write-your-own-open-source-license/)
    - [Everything an open source maintainer might need to know about open source licensing](https://ben.balter.com/2017/11/28/everything-an-open-source-maintainer-might-need-to-know-about-open-source-licensing/)
    - [Self-taught Software Developers: Why Open Source is important to us](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576)
+   - [So you wanna open source a project, eh?](https://dev.to/captainsafia/so-you-wanna-open-source-a-project-eh-5779)
+   - [Why I love contributing to open source software](https://www.errietta.me/blog/open-source/)
+   - [What Does “Open Source” Even Mean?](https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition-98c02d354b39)
+   - [Tips For New Open Source Maintainers](https://lord.io/oss-tips/)
+   - [Scaling Open Source Communities](https://krausefx.com/blog/scaling-open-source-communities)
+   - [Kindly Closing Pull Requests](https://github.blog/2016-03-15-kindly-closing-pull-requests/)
+   - [OSS project maintainer notes](https://www.jeffgeerling.com/blog/2016/why-i-close-prs-oss-project-maintainer-notes)
+   - [My condolences, you’re now the maintainer of a popular open source project](https://danielbachhuber.com/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
+   - [What success really looks like in open source](https://medium.com/@nayafia/what-success-really-looks-like-in-open-source-2dd1facaf91c#.pbieg7stv)
+   - [Advice To Open Source Project Contributors](https://taskwarrior.org/docs/advice.html)
+   - [How To Contribute To Open-Source Projects As A Beginner](https://daily.dev/blog/how-to-contribute-to-open-source-projects-as-a-beginner)
+   - [Open Source Projects](https://www.upgrad.com/blog/tag/open-source-projects/)
+   - [Open Source Projects Ideas](https://www.upgrad.com/blog/tag/open-source-project-ideas/)
+   - [Making Your First Open Source Contribution](https://meghapathak.tech/5-steps-for-making-your-first-open-source-contribution)
    
 </details>
   
