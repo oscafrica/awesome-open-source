@@ -29,7 +29,7 @@
    - [Open Source Guides](https://opensource.guide)
    - [Make your first open-source contribution](https://dev.to/denicmarko/make-your-first-open-source-contribution-4b0n)
    - [How to become an Open Source Contributor](https://taskwarrior.org/docs/first_time.html)
-   - [Getting started with contributing to open source<](https://stackoverflow.blog/2020/08/03/getting-started-with-contributing-to-open-source/)
+   - [Getting started with contributing to open source](https://stackoverflow.blog/2020/08/03/getting-started-with-contributing-to-open-source/)
    - [How To Contribute To Open Source: Getting Started With Git](https://www.digitalocean.com/community/tutorials/how-to-contribute-to-open-source-getting-started-with-git)
    - [How getting into Open Source has been awesome for me](https://kentcdodds.com/blog/how-getting-into-open-source-has-been-awesome-for-me)
    - [How To Maintain Open-Source Software Projects](https://www.digitalocean.com/community/tutorials/how-to-maintain-open-source-software-projects)
