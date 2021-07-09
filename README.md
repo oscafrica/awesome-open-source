@@ -46,6 +46,16 @@
    - [The Pros and Cons of Open Source Software Development](https://www.freecodecamp.org/news/what-is-great-about-developing-open-source-and-what-is-not/)
    - [Building the Open Source Community We Want](https://kentcdodds.com/blog/building-the-open-source-community-we-want)
    - [How I learn an Open Source Codebase](https://kentcdodds.com/blog/how-i-learn-an-open-source-codebase)
+   - [Introducing: How to Contribute to Open Source](https://kentcdodds.com/blog/introducing-how-to-contribute-to-open-source)
+   - [What open source project should I contribute to?](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to)
+   - [First Timers Only](https://kentcdodds.com/blog/first-timers-only)
+   - [Why open source?](https://ben.balter.com/2015/11/23/why-open-source/)
+   - [Tips for growing communities around your open source project](https://ben.balter.com/2017/11/10/twelve-tips-for-growing-communities-around-your-open-source-project/)
+   - [Best practices in open source: internal collaboration](https://ben.balter.com/2015/03/08/open-source-best-practices-internal-collaboration/)
+   - [Best practices in open source: external collaboration](https://ben.balter.com/2015/03/17/open-source-best-practices-external-engagement/)
+   - [Why you shouldn’t write your own open source license](https://ben.balter.com/2016/08/01/why-you-shouldnt-write-your-own-open-source-license/)
+   - [Everything an open source maintainer might need to know about open source licensing](https://ben.balter.com/2017/11/28/everything-an-open-source-maintainer-might-need-to-know-about-open-source-licensing/)
+   - [Self-taught Software Developers: Why Open Source is important to us](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576)
    
 </details>
   
