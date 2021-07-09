@@ -164,6 +164,13 @@
    - [Managing an Open Source Project - UtahJS](https://www.youtube.com/watch?v=jKI1Kj5VXqE)
    - [Open Sourcing Your Stuff](https://www.youtube.com/watch?v=Zlu3QvuwruY)
    - [Pieter Hintjens - Building Open Source Communities](https://youtu.be/uzxcILudFWM)
+   - [Contributing to Open Source for the first time](https://youtu.be/c6b6B9oN4Vg)
+   - [Getting started with Open Source & GitHub](https://youtu.be/3HqN-YS8eso)
+   - [How to Open Source Like a Pro](https://www.youtube.com/watch?v=MT6M_sqAuZo)
+   - [How To Get Started With Open Source](https://www.youtube.com/watch?v=GbqSvJs-6W4)
+   - [How to start with Open Source software contributions](https://www.youtube.com/watch?v=Tq4RZ-JH6aM)
+   - [Complete Guide to Open Source Contributions](https://www.youtube.com/watch?v=RHETubkhjY8&list=PLR0CKdeR_FyscaxEksDVXc4UQvlOFLYS6&t=0s)
+   - [Get started with Open Source](https://www.youtube.com/watch?v=Y5HIJeR9hk0)
    
 </details>
   
