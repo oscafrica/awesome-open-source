@@ -154,6 +154,16 @@
    - [How do I start working with Open Source and GitHub?](https://www.youtube.com/watch?v=lyiBnyPPnG4)
    - [The mind behind Linux | Linus Torvalds](https://www.youtube.com/watch?v=o8NPllzkFhE)
    - [Panel: Open source in Africa](https://www.youtube.com/watch?v=CFvwIX-gjSI)
+   - [Complete Guide to Open Source - How to Contribute](https://youtu.be/yzeVMecydCE)
+   - [Tips for contributing to Open Source with Github](https://youtu.be/kP-rEaamgHM)
+   - [Managing an Open Source Project](https://www.youtube.com/watch?v=zCJyiBu12Jw)
+   - [Level Up as an Open Source Contributor](https://youtu.be/pASY8b8QWcs)
+   - [Getting Into Open Source for Fun & Profit](https://youtu.be/b_e-Uzag31w)
+   - [How open source has made me and the stuff I make better](https://www.youtube.com/watch?v=6mtPPkKchcQ)
+   - [Building The Open Source Community We Want](https://www.youtube.com/watch?v=OGeoH-sqePE)
+   - [Managing an Open Source Project - UtahJS](https://www.youtube.com/watch?v=jKI1Kj5VXqE)
+   - [Open Sourcing Your Stuff](https://www.youtube.com/watch?v=Zlu3QvuwruY)
+   - [Pieter Hintjens - Building Open Source Communities](https://youtu.be/uzxcILudFWM)
    
 </details>
   
