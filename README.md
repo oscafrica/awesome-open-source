@@ -27,6 +27,25 @@
     <br />
     
    - [Open Source Guides](https://opensource.guide)
+   - [Make your first open-source contribution](https://dev.to/denicmarko/make-your-first-open-source-contribution-4b0n)
+   - [Getting started with contributing to open source<](https://stackoverflow.blog/2020/08/03/getting-started-with-contributing-to-open-source/)
+   - [How To Contribute To Open Source: Getting Started With Git](https://www.digitalocean.com/community/tutorials/how-to-contribute-to-open-source-getting-started-with-git)
+   - [How getting into Open Source has been awesome for me](https://kentcdodds.com/blog/how-getting-into-open-source-has-been-awesome-for-me)
+   - [How To Maintain Open-Source Software Projects](https://www.digitalocean.com/community/tutorials/how-to-maintain-open-source-software-projects)
+   - [Your First PR](https://yourfirstpr.github.io/)
+   - [How To Get Started In Open Source](https://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
+   - [The Definitive Guide to Contributing to Open Source](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/)
+   - [Evaluating Open Source Projects](https://producingoss.com/en/evaluating-oss-projects.html)
+   - [A Beginner’s Very Bumpy Journey Through The World of Open Source](https://www.freecodecamp.org/news/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39/)
+   - [How to Contribute to Open Source Projects – A Beginner's Guide](https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects-beginners-guide/)
+   - [The Ultimate Guide to Open Source](https://www.freecodecamp.org/news/the-ultimate-guide-to-open-source/)
+   - [How to Choose and Care for a Secure Open Source Project](https://www.freecodecamp.org/news/how-to-choose-and-care-for-a-secure-open-source-project/)
+   - [The Ultimate Owners Guide to Open Source](https://www.freecodecamp.org/news/ultimate-owners-guide-to-open-source/)
+   - [Open Source Stamina](https://kentcdodds.com/blog/open-source-stamina)
+   - [Why You Should Start Contributing to Open Source Software Right Now](https://www.freecodecamp.org/news/why-you-should-start-contributing-to-open-source-software-right-now/)
+   - [The Pros and Cons of Open Source Software Development](https://www.freecodecamp.org/news/what-is-great-about-developing-open-source-and-what-is-not/)
+   - [Building the Open Source Community We Want](https://kentcdodds.com/blog/building-the-open-source-community-we-want)
+   - [How I learn an Open Source Codebase](https://kentcdodds.com/blog/how-i-learn-an-open-source-codebase)
    
 </details>
   
