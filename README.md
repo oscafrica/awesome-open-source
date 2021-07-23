@@ -183,6 +183,7 @@
     
    - [Ubuntu Podcast](https://ubuntupodcast.org) - Latest news and issues facing Ubuntu users and Free Software fans in general.
    - [Command Line Heroes](https://www.redhat.com/en/command-line-heroes) - Epic true tales of how developers, programmers, hackers, geeks, and open source rebels are revolutionizing the technology landscape.
+   - [The README Podcast](https://github.com/readme/podcast)- On The ReadME Podcast, we take a look behind the scenes of the most impactful open source projects and the developers who make them happen.
    - [FLOSS Weekly](https://twit.tv/shows/floss-weekly) - FLOSS all about Free Libre Open Source Software with talks with the most interesting and important people in the Open Source and Free Software community.
    
 </details>
