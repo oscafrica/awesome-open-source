@@ -185,7 +185,11 @@
    - [Command Line Heroes](https://www.redhat.com/en/command-line-heroes) - Epic true tales of how developers, programmers, hackers, geeks, and open source rebels are revolutionizing the technology landscape.
    - [The README Podcast](https://github.com/readme/podcast)- On The ReadME Podcast, we take a look behind the scenes of the most impactful open source projects and the developers who make them happen.
    - [FLOSS Weekly](https://twit.tv/shows/floss-weekly) - FLOSS all about Free Libre Open Source Software with talks with the most interesting and important people in the Open Source and Free Software community.
-   
+   - [The Open Source Way](https://podcasts.google.com/feed/aHR0cHM6Ly9wb2RjYXN0Lm9wZW5zYXAuaW5mby9vcGVuLXNvdXJjZS13YXkvZmVlZC9tcDMv?ep=14) - This podcast is about the difference, value or drop that open source can be. Each episode we talk with experts about open source related topics and why they do it the open source way.
+   - [The Changelog: Software Development, Open Source](https://podcasts.google.com/feed/aHR0cHM6Ly9jaGFuZ2Vsb2cuY29tL3BvZGNhc3QvZmVlZA) - Conversations with the hackers, leaders, and innovators of the software world. This is a polyglot podcast. All programming languages, platforms, and communities are welcome. Open source moves fast. Keep up.
+   - [LINUX Unplugged](https://podcasts.google.com/feed/aHR0cHM6Ly9saW51eHVucGx1Z2dlZC5jb20vcnNz) - An open show powered by community LINUX Unplugged takes the best attributes of open collaboration and turns it into a weekly show about Linux.
+   - [Open Source Security Podcast](https://podcasts.google.com/feed/aHR0cDovL29wZW5zb3VyY2VzZWN1cml0eXBvZGNhc3QubGlic3luLmNvbS9yc3M) - FLOSS all about Free Libre Open Source Software with talks with the most interesting and important people in the Open Source and Free Software community.
+  
 </details>
 
 ## Contributing
