@@ -134,7 +134,12 @@
     <br />
     
    - [Producing Open Source Software: How To Run A Successful Free Software Project](https://www.amazon.com/Producing-Open-Source-Software-Successful/dp/0596007590)
-   - [Forge Your Future with Open Source: Build Your Skills. Build Your Network. Build the Future of Technolog](https://www.amazon.com/Forge-Your-Future-Open-Source/dp/1680503014)
+   - [Forge Your Future with Open Source: Build Your Skills. Build Your Network. Build the Future of Technology](https://www.amazon.com/Forge-Your-Future-Open-Source/dp/1680503014)
+   - [Open (Source) for Business: A Practical Guide to Open Source Software Licensing - Third Edition](https://www.amazon.com/dp/B086G6XDM1?tag=uuid10-20)
+   - [Open Source Static Code Analysis Tool A Complete Guide](https://www.amazon.com/Source-Static-Analysis-Complete-Guide/dp/0655942386?tag=uuid10-20)
+   - [Open Source Governance A Complete Guide](https://www.amazon.com/Open-Source-Governance-Complete-Guide/dp/0655943102?tag=uuid10-20)
+   - [Open Source Notebook: Open Sourcerer](https://www.amazon.com/Open-Source-Notebook-Sourcerer-Inches/dp/1700126016?tag=uuid10-20)
+   - [Open Sources: Voices from the Open Source Revolution](https://www.amazon.com/dp/1565925823?tag=uuid10-20)
    
 </details>
     
