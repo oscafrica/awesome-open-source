@@ -140,6 +140,12 @@
    - [Open Source Governance A Complete Guide](https://www.amazon.com/Open-Source-Governance-Complete-Guide/dp/0655943102?tag=uuid10-20)
    - [Open Source Notebook: Open Sourcerer](https://www.amazon.com/Open-Source-Notebook-Sourcerer-Inches/dp/1700126016?tag=uuid10-20)
    - [Open Sources: Voices from the Open Source Revolution](https://www.amazon.com/dp/1565925823?tag=uuid10-20)
+   - [Working in Public: The Making and Maintenance of Open Source Software](https://www.amazon.com/Working-Public-Making-Maintenance-Software/dp/0578675862/ref=sr_1_2?dchild=1&keywords=open+source&qid=1627244642&s=books&sr=1-2)
+   - [Entreprenerd: Building a Multi-Million-Dollar Business with Open Source Software](https://www.amazon.com/Entreprenerd-Building-Multi-Million-Dollar-Business-Software-ebook/dp/B09516H7LY/ref=sr_1_3?dchild=1&keywords=open+source&qid=1627244690&s=books&sr=1-3)
+   - [Intellectual Property and Open Source: A Practical Guide to Protecting Code](https://www.amazon.com/Intellectual-Property-Open-Source-Protecting/dp/0596517963/ref=sr_1_12?dchild=1&keywords=open+source&qid=1627244690&s=books&sr=1-12)
+   - [Understanding Open Source and Free Software Licensing](https://www.amazon.com/Understanding-Open-Source-Software-Licensing/dp/0596005814/ref=pd_bxgy_img_1/142-0255904-0756168?pd_rd_w=2AAiV&pf_rd_p=c64372fa-c41c-422e-990d-9e034f73989b&pf_rd_r=B56H43PW2MBZGSZPDKRA&pd_rd_r=f8e98e8b-1fb6-4dee-a617-64adcc48343d&pd_rd_wg=OkEwO&pd_rd_i=0596005814&psc=1)
+   - [Open Source Licensing: Software Freedom and Intellectual Property Law](https://www.amazon.com/Open-Source-Licensing-Software-Intellectual/dp/0131487876/ref=pd_sbs_2/142-0255904-0756168?pd_rd_w=O2Jmx&pf_rd_p=3676f086-9496-4fd7-8490-77cf7f43f846&pf_rd_r=WFVCK53MGCMWXHP5TT0F&pd_rd_r=cba59fe4-8139-4165-b7e5-a37b50150f71&pd_rd_wg=Zlc9T&pd_rd_i=0131487876&psc=1)
+   - [The Open Source Alternative](https://www.amazon.com/Open-Source-Alternative-Understanding-Opportunities/dp/0470194952/ref=pd_sim_5/142-0255904-0756168?pd_rd_w=NYlLz&pf_rd_p=6caf1c3a-a843-4189-8efc-81b67e85dc96&pf_rd_r=72BSPQAVZSVV5WAF481P&pd_rd_r=30cf2ab6-d784-4e41-a069-c492a0a8d918&pd_rd_wg=dE9El&pd_rd_i=0470194952&psc=1)
    
 </details>
     
