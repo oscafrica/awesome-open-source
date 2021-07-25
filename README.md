@@ -155,7 +155,6 @@
    - [Open Source for the Enterprise: Managing Risks, Reaping Rewards](https://www.amazon.com/Open-Source-Enterprise-Managing-Reaping/dp/0596101198)
    - [Perspectives on Free and Open Source Software (The MIT Press)](https://www.amazon.com/Perspectives-Free-Source-Software-Press/dp/0262562278)
    - [The Performance of Open Source Applications](https://www.amazon.com/Performance-Open-Source-Applications/dp/1304488780)
-    - [The Performance of Open Source Applications](https://www.amazon.com/Performance-Open-Source-Applications/dp/1304488780)
    - [Rebel Code: Linux and the Open Source Revolution](https://www.amazon.com/Rebel-Code-Linux-Source-Revolution-ebook/dp/B005I57NZ2/ref=as_li_ss_tl?keywords=open+source&qid=1579289424&refinements=p_72:2661619011&rnid=2661617011&sr=8-57&linkCode=sl1&tag=solutionsre04-20&linkId=61398f18974ba77ed7bfc6ccf4972330&language=en_US)
    
 </details>
