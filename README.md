@@ -146,6 +146,14 @@
    - [Understanding Open Source and Free Software Licensing](https://www.amazon.com/Understanding-Open-Source-Software-Licensing/dp/0596005814/ref=pd_bxgy_img_1/142-0255904-0756168?pd_rd_w=2AAiV&pf_rd_p=c64372fa-c41c-422e-990d-9e034f73989b&pf_rd_r=B56H43PW2MBZGSZPDKRA&pd_rd_r=f8e98e8b-1fb6-4dee-a617-64adcc48343d&pd_rd_wg=OkEwO&pd_rd_i=0596005814&psc=1)
    - [Open Source Licensing: Software Freedom and Intellectual Property Law](https://www.amazon.com/Open-Source-Licensing-Software-Intellectual/dp/0131487876/ref=pd_sbs_2/142-0255904-0756168?pd_rd_w=O2Jmx&pf_rd_p=3676f086-9496-4fd7-8490-77cf7f43f846&pf_rd_r=WFVCK53MGCMWXHP5TT0F&pd_rd_r=cba59fe4-8139-4165-b7e5-a37b50150f71&pd_rd_wg=Zlc9T&pd_rd_i=0131487876&psc=1)
    - [The Open Source Alternative](https://www.amazon.com/Open-Source-Alternative-Understanding-Opportunities/dp/0470194952/ref=pd_sim_5/142-0255904-0756168?pd_rd_w=NYlLz&pf_rd_p=6caf1c3a-a843-4189-8efc-81b67e85dc96&pf_rd_r=72BSPQAVZSVV5WAF481P&pd_rd_r=30cf2ab6-d784-4e41-a069-c492a0a8d918&pd_rd_wg=dE9El&pd_rd_i=0470194952&psc=1)
+   - [Open Source Property: Volume 1](https://www.amazon.com/Open-Source-Property-Jeremy-Sheff/dp/B08GG2DN9M/ref=sr_1_14?dchild=1&keywords=open+source&qid=1627244690&s=books&sr=1-14)
+   - [Open Source Property: Volume 2](https://www.amazon.com/Open-Source-Property-Jeremy-Sheff/dp/B08GFYF69C/ref=pd_bxgy_img_1/142-0255904-0756168?pd_rd_w=MTuUy&pf_rd_p=c64372fa-c41c-422e-990d-9e034f73989b&pf_rd_r=0SGKXTNNH99N8P6WSB9K&pd_rd_r=b2f3385b-db10-4aec-bde8-24d5b5e3bec2&pd_rd_wg=LoMPm&pd_rd_i=B08GFYF69C&psc=1)
+   - [Embracing Insanity: Open Source Software Development](https://www.amazon.com/Embracing-Insanity-Source-Software-Development/dp/0672319896/ref=sr_1_46?dchild=1&keywords=open+source&qid=1627245304&s=books&sr=1-46)
+   - [The Success of Open Source](https://www.amazon.com/Success-Open-Source-Steven-Weber/dp/0674018583)
+   - [The Architecture of Open Source Applications, Volume II: Structure, Scale, and a Few More Fearless Hacks](https://www.amazon.com/Architecture-Open-Source-Applications-Structure-ebook/dp/B008940UYK)
+   - [Open Source for the Enterprise: Managing Risks, Reaping Rewards](https://www.amazon.com/Open-Source-Enterprise-Managing-Reaping/dp/0596101198)
+   - [Perspectives on Free and Open Source Software (The MIT Press)](https://www.amazon.com/Perspectives-Free-Source-Software-Press/dp/0262562278)
+   - [The Performance of Open Source Applications](https://www.amazon.com/Performance-Open-Source-Applications/dp/1304488780)
    
 </details>
     
