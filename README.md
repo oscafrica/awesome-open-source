@@ -150,10 +150,13 @@
    - [Open Source Property: Volume 2](https://www.amazon.com/Open-Source-Property-Jeremy-Sheff/dp/B08GFYF69C/ref=pd_bxgy_img_1/142-0255904-0756168?pd_rd_w=MTuUy&pf_rd_p=c64372fa-c41c-422e-990d-9e034f73989b&pf_rd_r=0SGKXTNNH99N8P6WSB9K&pd_rd_r=b2f3385b-db10-4aec-bde8-24d5b5e3bec2&pd_rd_wg=LoMPm&pd_rd_i=B08GFYF69C&psc=1)
    - [Embracing Insanity: Open Source Software Development](https://www.amazon.com/Embracing-Insanity-Source-Software-Development/dp/0672319896/ref=sr_1_46?dchild=1&keywords=open+source&qid=1627245304&s=books&sr=1-46)
    - [The Success of Open Source](https://www.amazon.com/Success-Open-Source-Steven-Weber/dp/0674018583)
+   - [The Architecture Of Open Source Applications](https://www.amazon.com/Architecture-Open-Source-Applications/dp/1257638017/ref=as_li_ss_tl?keywords=open+source&qid=1579288709&sr=8-12&linkCode=sl1&tag=solutionsre04-20&linkId=41cd4b50c76820c83cb477021a850822&language=en_US)
    - [The Architecture of Open Source Applications, Volume II: Structure, Scale, and a Few More Fearless Hacks](https://www.amazon.com/Architecture-Open-Source-Applications-Structure-ebook/dp/B008940UYK)
    - [Open Source for the Enterprise: Managing Risks, Reaping Rewards](https://www.amazon.com/Open-Source-Enterprise-Managing-Reaping/dp/0596101198)
    - [Perspectives on Free and Open Source Software (The MIT Press)](https://www.amazon.com/Perspectives-Free-Source-Software-Press/dp/0262562278)
    - [The Performance of Open Source Applications](https://www.amazon.com/Performance-Open-Source-Applications/dp/1304488780)
+    - [The Performance of Open Source Applications](https://www.amazon.com/Performance-Open-Source-Applications/dp/1304488780)
+   - [Rebel Code: Linux and the Open Source Revolution](https://www.amazon.com/Rebel-Code-Linux-Source-Revolution-ebook/dp/B005I57NZ2/ref=as_li_ss_tl?keywords=open+source&qid=1579289424&refinements=p_72:2661619011&rnid=2661617011&sr=8-57&linkCode=sl1&tag=solutionsre04-20&linkId=61398f18974ba77ed7bfc6ccf4972330&language=en_US)
    
 </details>
     
