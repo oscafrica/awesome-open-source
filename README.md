@@ -195,6 +195,8 @@
    - [A new way to contribute to open source](https://www.youtube.com/watch?v=FYkBA9epUEk)
    - [Starting an Open Source Project](https://www.youtube.com/watch?v=nKfl3EQ0twg)
    - [How to contribute to OPEN SOURCE projects on Github](https://www.youtube.com/watch?v=b_aF5zk22cA)
+   - [How to find Github Repos to contribute to](https://www.youtube.com/watch?v=W7AewHnxMig)
+   - [I want you to contribute to open source](https://www.youtube.com/watch?v=hwdeUG_gySI)
    - [Complete Guide to Open Source Contributions](https://www.youtube.com/watch?v=RHETubkhjY8&list=PLR0CKdeR_FyscaxEksDVXc4UQvlOFLYS6&t=0s)
    - [Get started with Open Source](https://www.youtube.com/watch?v=Y5HIJeR9hk0)
    
