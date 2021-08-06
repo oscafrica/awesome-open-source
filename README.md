@@ -48,7 +48,7 @@
    - [Beginner's Guide to Open Source Contribution](https://ololade.hashnode.dev/series/beginners-guide-to-open-source-contribution)
    - [The beginner's guide to contributing to a GitHub project](https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/)
    - [The beginner's guide to contributing to Open Source](https://www.works-hub.com/learn/the-beginners-guide-to-contributing-to-open-source-4a526)
-    - [The Technical Writer's Guide To Contributing To Open Source Projects](https://edidiongasikpo.com/the-technical-writers-guide-to-contributing-to-open-source-projects)
+   - [The Technical Writer's Guide To Contributing To Open Source Projects](https://edidiongasikpo.com/the-technical-writers-guide-to-contributing-to-open-source-projects)
    - [How to Contribute to Open Source Projects – A Beginner's Guide](https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects-beginners-guide/)
    - [The Ultimate Guide to Open Source](https://www.freecodecamp.org/news/the-ultimate-guide-to-open-source/)
    - [How to Choose and Care for a Secure Open Source Project](https://www.freecodecamp.org/news/how-to-choose-and-care-for-a-secure-open-source-project/)
