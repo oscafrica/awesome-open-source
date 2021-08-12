@@ -210,7 +210,6 @@
    - [A Newcomer's Guide to Open Source Contribution](https://www.youtube.com/watch?v=8QaezVWLydM)
    - [How to Open Source Like a Pro](https://www.youtube.com/watch?v=MT6M_sqAuZo)
    - [How I Started Contributing to Open Source and Why You Should Too](https://www.youtube.com/watch?v=GAqfMNB-YBU)
-  
    - [Jessica McKellar: Contribute with me! Getting started with open source development](https://www.youtube.com/watch?v=k17GqN9dT3Q)
    - [Make Your First Open Source Contribution || Beginners Guide to Open Source](https://www.youtube.com/watch?v=9yx3XZq4JxM)
    - [How To Get Started With Open Source](https://www.youtube.com/watch?v=GbqSvJs-6W4)
