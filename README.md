@@ -7,7 +7,7 @@
 
 <details>
   <summary>
-    Community
+    Communities
   </summary
     <br />
     <br />
