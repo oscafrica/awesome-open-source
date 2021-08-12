@@ -117,7 +117,9 @@
    - [goodfirstissue.com](https://goodfirstissues.com/) -  A site made for new contributors to find great Open Source projects, discover issues and repositories with good first issue and help wanted labels.
    - [Up For Grabs](https://up-for-grabs.net/) - This is a list of projects which have curated tasks specifically for new contributors. These are a great way to get started with a project, or to help share the load of working on open source projects.
    - [First Contributions](https://firstcontributions.github.io/) - A hands-on tutorial that walks you through contributions workflow on GitHub. It help beginners to contribute to open source projects.
-
+   - [Contributor Ninja](https://contributor.ninja/) - A platform to find issues in several languages to fix on GitHub.
+   - [Gauger](https://gauger.io/contrib) - With this site, you can find beginner friendly open source projects to work on.
+   - [24 Pull Requests](https://24pullrequests.com/) - 24 Pull Requests' goal is to encourage contribution to open source projects during December. The site suggests open projects, highlights tickets that are good for new contributors, provides guides for contributing and promotes good contributions submitted each day.
    
 </details>
   
