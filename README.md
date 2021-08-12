@@ -66,6 +66,7 @@
    - [Introducing: How to Contribute to Open Source](https://kentcdodds.com/blog/introducing-how-to-contribute-to-open-source)
    - [What open source project should I contribute to?](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to)
    - [First Timers Only](https://kentcdodds.com/blog/first-timers-only)
+   - [Get Involved In Open Source Today](https://www.hanselman.com/blog/GetInvolvedInOpenSourceTodayHowToContributeAPatchToAGitHubHostedOpenSourceProjectLikeCode52.aspx)
    - [Why open source?](https://ben.balter.com/2015/11/23/why-open-source/)
    - [Tips for growing communities around your open source project](https://ben.balter.com/2017/11/10/twelve-tips-for-growing-communities-around-your-open-source-project/)
    - [Best practices in open source: internal collaboration](https://ben.balter.com/2015/03/08/open-source-best-practices-internal-collaboration/)
