@@ -120,6 +120,8 @@
    - [Contributor Ninja](https://contributor.ninja/) - A platform to find issues in several languages to fix on GitHub.
    - [Gauger](https://gauger.io/contrib) - With this site, you can find beginner friendly open source projects to work on.
    - [24 Pull Requests](https://24pullrequests.com/) - 24 Pull Requests' goal is to encourage contribution to open source projects during December. The site suggests open projects, highlights tickets that are good for new contributors, provides guides for contributing and promotes good contributions submitted each day.
+   - [Issue Hub](http://issuehub.pro/) - Contribute to open source by searching issue labels to find the right project for you!
+   - [Pull Request Roulette](http://www.pullrequestroulette.com/) - On this site, there's a list of pull requests submitted for review, belonging to open source projects hosted on GitHub.
    
 </details>
   
