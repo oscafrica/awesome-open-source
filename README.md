@@ -87,7 +87,6 @@
    - [How To Contribute To Open-Source Projects As A Beginner](https://daily.dev/blog/how-to-contribute-to-open-source-projects-as-a-beginner)
    - [Open Source Projects](https://www.upgrad.com/blog/tag/open-source-projects/)
    - [Open Source Projects Ideas](https://www.upgrad.com/blog/tag/open-source-project-ideas/)
-   - [Making Your First Open Source Contribution](https://meghapathak.tech/5-steps-for-making-your-first-open-source-contribution)
    
 </details>
   
