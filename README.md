@@ -7,7 +7,7 @@
 
 <details>
   <summary>
-    Community
+    Communities
   </summary
     <br />
     <br />
@@ -38,6 +38,22 @@
    - [The Definitive Guide to Contributing to Open Source](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/)
    - [Evaluating Open Source Projects](https://producingoss.com/en/evaluating-oss-projects.html)
    - [A Beginner’s Very Bumpy Journey Through The World of Open Source](https://www.freecodecamp.org/news/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39/)
+   - [5 tips for getting involved in open source projects on github](https://fasani.hashnode.dev/5-tips-for-getting-involved-in-open-source-projects-on-github-ckdrmibup00unfzs1e56ugo1q)
+   - [How to Be a Good Open Source Project Owner – The Ultimate Guide](https://www.freecodecamp.org/news/ultimate-owners-guide-to-open-source/)
+   - [The Ultimate Guide to Open Source](https://www.freecodecamp.org/news/the-ultimate-guide-to-open-source/) 
+   - [Making clean PR for Open Source Contributors (PEP 8 Style)](https://ayush-raj-blogs.hashnode.dev/making-clean-pr-for-open-source-contributors-pep-8-style)
+   - [Ways you can contribute to Open Source](https://movi.hashnode.dev/10-ways-you-can-contribute-to-open-source-ckfljitve00cspds1d0cmbzv2)
+   - [Getting Started With Open-Source: How To Contribute](https://catalins.tech/getting-started-with-open-source-how-to-contribute)
+   - [Step by step guide to contributing on GitHub](https://www.dataschool.io/how-to-contribute-on-github/)
+   - [Open Source contributions: A catalyst for growth](https://edidiongasikpo.com/open-source-contributions-a-catalyst-for-growth)
+   - [Contributing to Open Source projects](https://www.codemotion.com/magazine/dev-hub/backend-dev/contributing-to-open-source-projects/)
+   - [A guide to making open source contributions](https://pulkitsinghdev.hashnode.dev/how-to-contribute-to-open-source)
+   - [How to Contribute to Open-Source Projects](https://rubygarage.org/blog/how-contribute-to-open-source-projects)
+   - [Contribute Beyond Code: Open Source for Everyone](https://dev.to/sigje/contribute-beyond-code-open-source-for-everyone-593j)
+   - [Beginner's Guide to Open Source Contribution](https://ololade.hashnode.dev/series/beginners-guide-to-open-source-contribution)
+   - [The beginner's guide to contributing to a GitHub project](https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/)
+   - [The beginner's guide to contributing to Open Source](https://www.works-hub.com/learn/the-beginners-guide-to-contributing-to-open-source-4a526)
+   - [The Technical Writer's Guide To Contributing To Open Source Projects](https://edidiongasikpo.com/the-technical-writers-guide-to-contributing-to-open-source-projects)
    - [How to Contribute to Open Source Projects – A Beginner's Guide](https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects-beginners-guide/)
    - [The Ultimate Guide to Open Source](https://www.freecodecamp.org/news/the-ultimate-guide-to-open-source/)
    - [How to Choose and Care for a Secure Open Source Project](https://www.freecodecamp.org/news/how-to-choose-and-care-for-a-secure-open-source-project/)
@@ -50,6 +66,7 @@
    - [Introducing: How to Contribute to Open Source](https://kentcdodds.com/blog/introducing-how-to-contribute-to-open-source)
    - [What open source project should I contribute to?](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to)
    - [First Timers Only](https://kentcdodds.com/blog/first-timers-only)
+   - [Get Involved In Open Source Today](https://www.hanselman.com/blog/GetInvolvedInOpenSourceTodayHowToContributeAPatchToAGitHubHostedOpenSourceProjectLikeCode52.aspx)
    - [Why open source?](https://ben.balter.com/2015/11/23/why-open-source/)
    - [Tips for growing communities around your open source project](https://ben.balter.com/2017/11/10/twelve-tips-for-growing-communities-around-your-open-source-project/)
    - [Best practices in open source: internal collaboration](https://ben.balter.com/2015/03/08/open-source-best-practices-internal-collaboration/)
@@ -96,6 +113,16 @@
    - [Awesome Open Source](https://awesomeopensource.com) - Find Open Source By Searching, Browsing 326,000+ Projects.
    - [Open Sauced](https://opensauced.pizza) - Open Sauced provides guidance onboarding for new contributor through GitHub GraphQL API powered dashboard.
    - [Open Collective](https://opencollective.com) - Open Collective lets you manage your finances so everyone can see where money comes from and where it goes.
+   - [CodeTriage](https://www.codetriage.com/) - CodeTriage helps by picking a handful of open issues and delivering them directly to your inbox. After you sign up for CodeTriage, you pick the repos you want to help with, and we periodically send you issues. 
+   - [goodfirstissus.dev](https://goodfirstissue.dev/) - Curates easy pickings from popular open-source projects, and helps you make your first contribution to open-source.
+   - [goodfirstissue.com](https://goodfirstissues.com/) -  A site made for new contributors to find great Open Source projects, discover issues and repositories with good first issue and help wanted labels.
+   - [Up For Grabs](https://up-for-grabs.net/) - This is a list of projects which have curated tasks specifically for new contributors. These are a great way to get started with a project, or to help share the load of working on open source projects.
+   - [First Contributions](https://firstcontributions.github.io/) - A hands-on tutorial that walks you through contributions workflow on GitHub. It help beginners to contribute to open source projects.
+   - [Contributor Ninja](https://contributor.ninja/) - A platform to find issues in several languages to fix on GitHub.
+   - [Gauger](https://gauger.io/contrib) - With this site, you can find beginner friendly open source projects to work on.
+   - [24 Pull Requests](https://24pullrequests.com/) - 24 Pull Requests' goal is to encourage contribution to open source projects during December. The site suggests open projects, highlights tickets that are good for new contributors, provides guides for contributing and promotes good contributions submitted each day.
+   - [Issue Hub](http://issuehub.pro/) - Contribute to open source by searching issue labels to find the right project for you!
+   - [Pull Request Roulette](http://www.pullrequestroulette.com/) - On this site, there's a list of pull requests submitted for review, belonging to open source projects hosted on GitHub.
    
 </details>
   
