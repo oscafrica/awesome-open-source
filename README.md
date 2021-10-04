@@ -14,7 +14,7 @@
     
    - [Open Source Community Africa](https://oscafrica.org)
    - [Open Source Initiative](https://opensource.org)
-   - [The Linux Foundationn](https://www.linuxfoundation.org)
+   - [The Linux Foundation](https://www.linuxfoundation.org)
    - [GNOME Community](https://wiki.gnome.org/Community)
     
 </details>
@@ -113,8 +113,8 @@
    - [Open Sauced](https://opensauced.pizza) - Open Sauced provides guidance onboarding for new contributor through GitHub GraphQL API powered dashboard.
    - [Open Collective](https://opencollective.com) - Open Collective lets you manage your finances so everyone can see where money comes from and where it goes.
    - [CodeTriage](https://www.codetriage.com/) - CodeTriage helps by picking a handful of open issues and delivering them directly to your inbox. After you sign up for CodeTriage, you pick the repos you want to help with, and we periodically send you issues. 
-   - [goodfirstissus.dev](https://goodfirstissue.dev/) - Curates easy pickings from popular open-source projects, and helps you make your first contribution to open-source.
-   - [goodfirstissue.com](https://goodfirstissues.com/) -  A site made for new contributors to find great Open Source projects, discover issues and repositories with good first issue and help wanted labels.
+   - [goodfirstissue.dev](https://goodfirstissue.dev/) - Curates easy pickings from popular open-source projects, and helps you make your first contribution to open-source.
+   - [goodfirstissues.com](https://goodfirstissues.com/) -  A site made for new contributors to find great Open Source projects, discover issues and repositories with good first issue and help wanted labels.
    - [Up For Grabs](https://up-for-grabs.net/) - This is a list of projects which have curated tasks specifically for new contributors. These are a great way to get started with a project, or to help share the load of working on open source projects.
    - [First Contributions](https://firstcontributions.github.io/) - A hands-on tutorial that walks you through contributions workflow on GitHub. It help beginners to contribute to open source projects.
    - [Contributor Ninja](https://contributor.ninja/) - A platform to find issues in several languages to fix on GitHub.
