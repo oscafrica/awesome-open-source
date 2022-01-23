@@ -87,6 +87,7 @@
    - [How To Contribute To Open-Source Projects As A Beginner](https://daily.dev/blog/how-to-contribute-to-open-source-projects-as-a-beginner)
    - [Open Source Projects](https://www.upgrad.com/blog/tag/open-source-projects/)
    - [Open Source Projects Ideas](https://www.upgrad.com/blog/tag/open-source-project-ideas/)
+   - [Everything Open Source](https://logique.hashnode.dev/everything-open-source-cky8brlwv0rxd5ns1c3jn61aw)
    
 </details>
   
