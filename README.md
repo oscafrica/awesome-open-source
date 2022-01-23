@@ -21,7 +21,7 @@
 
 <details>
   <summary>
-     Resources
+     Articles
   </summary
     <br />
     <br />
