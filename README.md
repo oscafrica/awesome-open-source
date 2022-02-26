@@ -7,6 +7,21 @@
 
 <details>
   <summary>
+    Start Here 👋🏾
+  </summary
+    <br />
+    <br />
+    
+   - [Open Source Programs](https://github.com/tapaswenipathak/Open-Source-Programs) — A detailed list of paid and unpaid open source programs and internships.
+   - [Made in Nigeria](https://github.com/acekyd/made-in-nigeria) — A curation of awesome tools built by Nigerians.
+   - [Made in Kenya](https://github.com/MadeInKenya/madeinkenya.github.io) — A curation of awesome tools built by Kenyans.
+   - [Made in Ghana](https://github.com/viclotana/MadeInGhana) — A curation of awesome tools built by Ghanians.
+   - [Made in Zambia](https://github.com/ZambianTech/made-in-zambia) — A curation of awesome tools built by Zambians.
+    
+</details>
+
+<details>
+  <summary>
     Communities
   </summary
     <br />
