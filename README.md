@@ -33,6 +33,9 @@
    - [Open Source Initiative](https://opensource.org)
    - [The Linux Foundation](https://www.linuxfoundation.org)
    - [GNOME Community](https://wiki.gnome.org/Community)
+   - [EddieHub](https://github.com/EddieHubCommunity)
+   - [Oss Cameroun](https://github.com/osscameroon)
+   - [Devicons](https://github.com/devicons)
     
 </details>
 
