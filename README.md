@@ -34,7 +34,7 @@
    - [The Linux Foundation](https://www.linuxfoundation.org)
    - [GNOME Community](https://wiki.gnome.org/Community)
    - [EddieHub](https://github.com/EddieHubCommunity)
-   - [Oss Cameroun](https://github.com/osscameroon)
+   - [OSS Cameroon](https://github.com/osscameroon)
     
 </details>
 
