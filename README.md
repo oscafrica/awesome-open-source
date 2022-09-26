@@ -35,6 +35,9 @@
    - [GNOME Community](https://wiki.gnome.org/Community)
    - [EddieHub](https://github.com/EddieHubCommunity)
    - [OSS Cameroon](https://github.com/osscameroon)
+   - [Naomi's Nook](https://github.com/nhcommunity)
+   - [Devstron] (https://github.com/devstrons)
+   - [Programmers Universal Group](https://github.com/PUGroups)
     
 </details>
 
