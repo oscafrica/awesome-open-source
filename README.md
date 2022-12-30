@@ -10,7 +10,7 @@
     Start Here 👋🏾
   </summary
     <br />
-    <br />
+    <br /> 
     
    - [Projects for new contributors](https://github.com/showcases/great-for-new-contributors) - A collection of projects that have a history and reputation for being welcoming to new open source contributors.
    - [Tools for Open Source](https://github.com/collections/tools-for-open-source) - A collection of softwares to make running your open source project a little bit easier.
@@ -119,6 +119,7 @@
     
    - [How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
    - [Identifying How to Contribute to an Open Source Project on GitHub](https://egghead.io/lessons/javascript-identifying-how-to-contribute-to-an-open-source-project-on-github)
+   - [Introduction to Open Source](https://www.codecademy.com/learn/introduction-to-open-source)
    
 </details>
   
