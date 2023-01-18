@@ -1,5 +1,4 @@
-# Awesome Open Source
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) Open Source
 
 ![](https://repository-images.githubusercontent.com/283972796/ccf68e00-d30c-11ea-9a44-9bd671232ecc)
 
@@ -7,7 +6,7 @@
 
 <details>
   <summary>
-    Start Here 👋🏾
+    Start Here ⚠️
   </summary
     <br />
     <br /> 
@@ -35,7 +34,7 @@
    - [GNOME Community](https://wiki.gnome.org/Community)
    - [EddieHub](https://github.com/EddieHubCommunity)
    - [OSS Cameroon](https://github.com/osscameroon)
-   - [DVS Tech Community](https://github.com/dvstechlabs/Become-A-Member)
+   - [DVS Tech Community](https://github.com/dvstechlabs)
     
 </details>
 
