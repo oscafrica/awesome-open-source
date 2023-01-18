@@ -35,6 +35,7 @@
    - [GNOME Community](https://wiki.gnome.org/Community)
    - [EddieHub](https://github.com/EddieHubCommunity)
    - [OSS Cameroon](https://github.com/osscameroon)
+   - [DVS Tech Community](https://github.com/dvstechlabs/Become-A-Member)
     
 </details>
 
