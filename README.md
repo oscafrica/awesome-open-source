@@ -11,12 +11,12 @@
     <br />
     <br /> 
     
-   - [Projects for new contributors](https://github.com/showcases/great-for-new-contributors) - A collection of projects that have a history and reputation for being welcoming to new open source contributors.
-   - [Tools for Open Source](https://github.com/collections/tools-for-open-source) - A collection of softwares to make running your open source project a little bit easier.
+   - [Projects for new contributors](https://github.com/showcases/great-for-new-contributors) - A collection of projects that have a history and reputation for being welcoming to new open-source contributors.
+   - [Tools for Open Source](https://github.com/collections/tools-for-open-source) - A collection of software to make running your open source project a little bit easier.
    - [Open Source Programs](https://github.com/tapaswenipathak/Open-Source-Programs) — A detailed list of paid and unpaid open source programs and internships.
    - [Made in Nigeria](https://github.com/acekyd/made-in-nigeria) — A curation of awesome tools built by Nigerians.
    - [Made in Kenya](https://github.com/MadeInKenya/madeinkenya.github.io) — A curation of awesome tools built by Kenyans.
-   - [Made in Ghana](https://github.com/viclotana/MadeInGhana) — A curation of awesome tools built by Ghanians.
+   - [Made in Ghana](https://github.com/viclotana/MadeInGhana) — A curation of awesome tools built by Ghanaians.
    - [Made in Zambia](https://github.com/ZambianTech/made-in-zambia) — A curation of awesome tools built by Zambians.
     
 </details>
