@@ -32,10 +32,10 @@
    - [Open Source Initiative](https://opensource.org)
    - [The Linux Foundation](https://www.linuxfoundation.org)
    - [GNOME Community](https://wiki.gnome.org/Community)
-   - [KDE Community](https://community.kde.org/)
    - [EddieHub](https://github.com/EddieHubCommunity)
    - [OSS Cameroon](https://github.com/osscameroon)
    - [DVS Tech Community](https://github.com/dvstechlabs)
+   - [KDE Community](https://community.kde.org)
     
 </details>
 
