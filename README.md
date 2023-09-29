@@ -35,6 +35,7 @@
    - [EddieHub](https://github.com/EddieHubCommunity)
    - [OSS Cameroon](https://github.com/osscameroon)
    - [DVS Tech Community](https://github.com/dvstechlabs)
+   - [KDE Community](https://community.kde.org)
     
 </details>
 
