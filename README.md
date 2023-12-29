@@ -44,7 +44,7 @@
    - [KDE Community](https://community.kde.org)
    - [FOSS Asia](https://fossasia.org)
    - [Tublian Community](https://tublian.com)
-   - [Angola Open Source Community](https://aosc.social/)
+   - [Angola Open Source Community](https://aosc.social)
     
 </details>
   
@@ -69,7 +69,6 @@
    - [24 Pull Requests](https://24pullrequests.com) - A collection of OSS projects tickets that are good for new contributors and guides for contributing.
    - [Issue Hub](https://issuehub.pro/) - Contribute to open source by searching issue labels to find the right project for you.
    - [Pull Request Roulette](https://pullrequestroulette.com) - A list of pull requests submitted for review, belonging to open source projects hosted on GitHub.
-   - [Tublian](https://tublian.com) - Tublian is a community-based software developer marketplace. With [streetcred](https://www.tublian.com/streetcred), he is building the next generation of 10x developers and changing how companies hire software developers.
    
 </details>
 
@@ -281,7 +280,7 @@
    - [Breaking Into Open Source](https://podcasts.google.com/feed/aHR0cHM6Ly9icmVha2luZ29zLmxpYnN5bi5jb20vcnNz) - Have you ever wondered what would it be to contribute to open-source software? Or is curious about how to get started? Well, wonder no more! In this podcast we let Bob and Josh take us through the tour of the wonderful world of open source, as seen through developers. 
    - [Humans Of Open Source](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80MDU1MjRjOC9wb2RjYXN0L3Jzcw) - A podcast where we explore the human side of working on open-source software. We talk to contributors about how, what, and why they contribute in order to uncover the human element behind the open-source communities that power our digital infrastructure.
    - [Open Source System Podcast](https://podcasts.google.com/feed/aHR0cDovL29wZW5zb3VyY2VzeXN0ZW1wb2RjYXN0LnZmLmlvL2ZlZWQv?sa=X&ved=0CCIQ27cFahcKEwjIjrfEqbjxAhUAAAAAHQAAAAAQAg) - The Open Source System Podcast brings you the latest open source projects and news. We try to focus only on open source software and cover projects that are created in any programming language. If you have a goal to become more involved with open source software then this podcast is for you!
-   - [Sustain](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5maXJlc2lkZS5mbS9zdXN0YWluL3Jzcw?sa=X&ved=0CDIQ27cFahcKEwjIjrfEqbjxAhUAAAAAHQAAAAAQAg) - Sustain brings together practitioners, sustainers, funders, researchers and maintainers of the open source ecosystem. We have conversations about the health and sustainability of the open source community. We learn about the ins and outs of what ‘open source’ entails in the real world.
+   - [Sustain Podcast](https://podcast.sustainoss.org) - Sustain brings together practitioners, sustainers, funders, researchers and maintainers of the open source ecosystem. We have conversations about the health and sustainability of the open source community. We learn about the ins and outs of what ‘open source’ entails in the real world.
   
 </details>
 
@@ -294,8 +293,8 @@
     
    - [How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
    - [Identifying How to Contribute to an Open Source Project on GitHub](https://egghead.io/lessons/javascript-identifying-how-to-contribute-to-an-open-source-project-on-github)
-   - [Introduction to Open Source](https://www.codecademy.com/learn/introduction-to-open-source)
-   - [Intro to Open Source with OpenSauced](https://intro.opensauced.pizza/#/)
+   - [Introduction to Open Source](https://codecademy.com/learn/introduction-to-open-source)
+   - [Intro to Open Source with OpenSauced](https://intro.opensauced.pizza)
    
 </details>
 
@@ -311,7 +310,7 @@
    - [Sustain Africa](http://festival.oscafrica.org/sustain-africa)
    - [Open Source Summit Japan](https://events.linuxfoundation.org/open-source-summit-japan)
    - [FOSSASIA Open Tech Summit](https://events.fossasia.org)
-   - [Angola Open Source Festival](https://fest.aosc.social/)
+   - [Angola Open Source Festival](https://fest.aosc.social)
    
 </details>
   
