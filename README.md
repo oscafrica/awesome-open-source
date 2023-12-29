@@ -43,6 +43,8 @@
    - [DVS Tech Community](https://github.com/dvstechlabs)
    - [KDE Community](https://community.kde.org)
    - [FOSS Asia](https://fossasia.org)
+   - [Tublian Community](https://tublian.com)
+   - [Angola Open Source Community](https://aosc.social)
     
 </details>
   
@@ -155,6 +157,9 @@
    - [Open Source Projects](https://www.upgrad.com/blog/tag/open-source-projects/)
    - [Open Source Projects Ideas](https://www.upgrad.com/blog/tag/open-source-project-ideas/)
    - [Everything Open Source](https://logique.hashnode.dev/everything-open-source-cky8brlwv0rxd5ns1c3jn61aw)
+   - [A Pratical Guide to Start Open Source Contribution](https://www.freecodecamp.org/news/a-practical-guide-to-start-opensource-contributions/)
+   - [What Is Open Source](https://devlog.tublian.com/what-is-open-source)
+   - [Chrissy's Open Source Survival Guide](https://chrissycodes.hashnode.dev/series/open-source-tips)
    
 </details>
 
@@ -240,6 +245,8 @@
    - [I want you to contribute to open source](https://www.youtube.com/watch?v=hwdeUG_gySI)
    - [Complete Guide to Open Source Contributions](https://www.youtube.com/watch?v=RHETubkhjY8&list=PLR0CKdeR_FyscaxEksDVXc4UQvlOFLYS6&t=0s)
    - [Get started with Open Source](https://www.youtube.com/watch?v=Y5HIJeR9hk0)
+   - [Unlock the Value of Open Source With Open Sauced – Open Source Friday](https://www.youtube.com/watch?v=BaIjOw1K5JY)
+   - [Tublian Masterclass: How To Contribute to Open Source](https://www.youtube.com/watch?v=eqCNEG4V4T8)
    
 </details>
   
@@ -273,7 +280,7 @@
    - [Breaking Into Open Source](https://podcasts.google.com/feed/aHR0cHM6Ly9icmVha2luZ29zLmxpYnN5bi5jb20vcnNz) - Have you ever wondered what would it be to contribute to open-source software? Or is curious about how to get started? Well, wonder no more! In this podcast we let Bob and Josh take us through the tour of the wonderful world of open source, as seen through developers. 
    - [Humans Of Open Source](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80MDU1MjRjOC9wb2RjYXN0L3Jzcw) - A podcast where we explore the human side of working on open-source software. We talk to contributors about how, what, and why they contribute in order to uncover the human element behind the open-source communities that power our digital infrastructure.
    - [Open Source System Podcast](https://podcasts.google.com/feed/aHR0cDovL29wZW5zb3VyY2VzeXN0ZW1wb2RjYXN0LnZmLmlvL2ZlZWQv?sa=X&ved=0CCIQ27cFahcKEwjIjrfEqbjxAhUAAAAAHQAAAAAQAg) - The Open Source System Podcast brings you the latest open source projects and news. We try to focus only on open source software and cover projects that are created in any programming language. If you have a goal to become more involved with open source software then this podcast is for you!
-   - [Sustain](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5maXJlc2lkZS5mbS9zdXN0YWluL3Jzcw?sa=X&ved=0CDIQ27cFahcKEwjIjrfEqbjxAhUAAAAAHQAAAAAQAg) - Sustain brings together practitioners, sustainers, funders, researchers and maintainers of the open source ecosystem. We have conversations about the health and sustainability of the open source community. We learn about the ins and outs of what ‘open source’ entails in the real world.
+   - [Sustain Podcast](https://podcast.sustainoss.org) - Sustain brings together practitioners, sustainers, funders, researchers and maintainers of the open source ecosystem. We have conversations about the health and sustainability of the open source community. We learn about the ins and outs of what ‘open source’ entails in the real world.
   
 </details>
 
@@ -286,7 +293,8 @@
     
    - [How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
    - [Identifying How to Contribute to an Open Source Project on GitHub](https://egghead.io/lessons/javascript-identifying-how-to-contribute-to-an-open-source-project-on-github)
-   - [Introduction to Open Source](https://www.codecademy.com/learn/introduction-to-open-source)
+   - [Introduction to Open Source](https://codecademy.com/learn/introduction-to-open-source)
+   - [Intro to Open Source with OpenSauced](https://intro.opensauced.pizza)
    
 </details>
 
@@ -302,6 +310,7 @@
    - [Sustain Africa](http://festival.oscafrica.org/sustain-africa)
    - [Open Source Summit Japan](https://events.linuxfoundation.org/open-source-summit-japan)
    - [FOSSASIA Open Tech Summit](https://events.fossasia.org)
+   - [Angola Open Source Festival](https://fest.aosc.social)
    
 </details>
   
