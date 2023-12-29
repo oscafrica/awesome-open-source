@@ -8,6 +8,8 @@
 
 ---
 
+## The Resources
+
 <details>
   <summary>
     Start Here ⚠️
@@ -65,6 +67,22 @@
    - [24 Pull Requests](https://24pullrequests.com) - A collection of OSS projects tickets that are good for new contributors and guides for contributing.
    - [Issue Hub](https://issuehub.pro/) - Contribute to open source by searching issue labels to find the right project for you.
    - [Pull Request Roulette](https://pullrequestroulette.com) - A list of pull requests submitted for review, belonging to open source projects hosted on GitHub.
+   
+</details>
+
+<details>
+  <summary>
+    Infrastructure Support
+  </summary
+    <br />
+    <br />
+    
+   - [DigitalOcean Open Source Credits](https://www.digitalocean.com/open-source/credits-for-projects)
+   - [Gitbook OSS Plan](https://docs.gitbook.com/account-management/plans/apply-for-the-non-profit-open-source-plan)
+   - [OpenInfra Foundation Hosting](https://openinfra.dev/projects/hosting)
+   - [Azure Open Source Credits](https://opensource.microsoft.com/azure-credits)
+   - [Google Cloud Research Credits](https://edu.google.com/programs/credits/research)
+   - [Assured Open Source Software](https://cloud.google.com/security/products/assured-open-source-software)
    
 </details>
 
