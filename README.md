@@ -20,6 +20,7 @@
    - [Projects for new contributors](https://github.com/showcases/great-for-new-contributors) - A collection of projects that have a history and reputation for being welcoming to new open-source contributors.
    - [Tools for Open Source](https://github.com/collections/tools-for-open-source) - A collection of software to make running your open source project a little bit easier.
    - [Open Source Programs](https://github.com/tapaswenipathak/Open-Source-Programs) — A detailed list of paid and unpaid open source programs and internships.
+   - [Open Source Guides](https://opensource.guide) - A collection of guides that will teach you how to launch and grow your open source project.
    - [Made in Nigeria](https://github.com/acekyd/made-in-nigeria) — A curation of awesome tools built by Nigerians 🇳🇬.
    - [Made in Kenya](https://github.com/MadeInKenya/madeinkenya.github.io) — A curation of awesome tools built by Kenyans 🇰🇪.
    - [Made in Ghana](https://github.com/viclotana/MadeInGhana) — A curation of awesome tools built by Ghanaians 🇬🇭.
@@ -95,7 +96,6 @@
     <br />
     <br />
     
-   - [Open Source Guides](https://opensource.guide)
    - [Make your first open-source contribution](https://dev.to/denicmarko/make-your-first-open-source-contribution-4b0n)
    - [How to become an Open Source Contributor](https://taskwarrior.org/docs/first_time.html)
    - [Getting started with contributing to open source](https://stackoverflow.blog/2020/08/03/getting-started-with-contributing-to-open-source/)
@@ -160,6 +160,7 @@
    - [A Pratical Guide to Start Open Source Contribution](https://www.freecodecamp.org/news/a-practical-guide-to-start-opensource-contributions/)
    - [What Is Open Source](https://devlog.tublian.com/what-is-open-source)
    - [Chrissy's Open Source Survival Guide](https://chrissycodes.hashnode.dev/series/open-source-tips)
+   - [Contributing to Open Source Pocket Guide](https://blog.bolajiayodeji.com/contributing-to-open-source-pocket-guide)
    
 </details>
 
@@ -194,6 +195,32 @@
    - [The Performance of Open Source Applications](https://www.amazon.com/Performance-Open-Source-Applications/dp/1304488780)
    - [Rebel Code: Linux and the Open Source Revolution](https://www.amazon.com/Rebel-Code-Linux-Source-Revolution-ebook/dp/B005I57NZ2/ref=as_li_ss_tl?keywords=open+source&qid=1579289424&refinements=p_72:2661619011&rnid=2661617011&sr=8-57&linkCode=sl1&tag=solutionsre04-20&linkId=61398f18974ba77ed7bfc6ccf4972330&language=en_US)
    
+</details>
+
+<details>
+  <summary>
+    Podcasts
+  </summary
+    <br />
+    <br />
+
+   - [Sustain Podcast](https://podcast.sustainoss.org) - Sustain brings together practitioners, sustainers, funders, researchers and maintainers of the open source ecosystem to talk about the health and sustainability of the open source community.
+   - [Command Line Heroes](https://www.redhat.com/en/command-line-heroes) - Epic true tales of how developers, programmers, hackers, geeks, and open source rebels are revolutionizing the technology landscape.
+   - [The README Podcast](https://github.com/readme/podcast)- A look behind the scenes of the most impactful open source projects and the developers who make them happen.
+   - [FLOSS Weekly](https://twit.tv/shows/floss-weekly) - Free Libre Open Source Software with talks with the most interesting and important people in the Open Source and Free Software community.
+   - [The Open Source Way](https://podcast.opensap.info/open-source-way) - The difference, value or drop that open source can be.
+   - [The Changelog Podcast](https://changelog.com/podcast) - Conversations with the hackers, leaders, and innovators of the software world.
+   - [LINUX Unplugged](https://linuxunplugged.com) - Weekly Linux open show about the best attributes of open collaboration.
+   - [Linux Weekly Daily Wednesday](https://linuxgamecast.com/lwdwsubscribe) - A weekly dose of all thing Linux and open source with a slice of Pi for good measure.
+   - [The Craft Of Open Source](https://flagsmith.com/podcast) - A bi-weekly show focused on the ins and outs of the Open Source Software Community.
+   - [Open Source For Business](https://open.spotify.com/show/1Him9218GEeAGc4J3yN2Lu) - Interviews with some of the world's top experts that sit at the intersection of business and open source.
+   - [Open Source Voices](https://opensourcevoices.org) - Highlighting the voice and lives of people who are building the future with open source.
+   - [Free as in Freedom](https://faif.us) - A bi-weekly discussion of legal, policy, and other issues in the open-source and software freedom community.
+   - [Open Source Underdogs](https://opensourceunderdogs.com) - A podcast for entrepreneurs about open-source software.
+   - [Open Source Creative](https://opensourcecreative.org) - A weekly podcast about creativity, process, and open source software.
+   - [The Binary Times Audiocast](https://thebinarytimes.net) - Linux and open-source tips, tricks, and discussion. 
+   - [FLOSS For Science](https://flossforscience.com) - Interviews with scientists who are using or developing free and libre open-source software. 
+  
 </details>
     
 <details>
@@ -249,40 +276,6 @@
    - [Tublian Masterclass: How To Contribute to Open Source](https://www.youtube.com/watch?v=eqCNEG4V4T8)
    
 </details>
-  
-<details>
-  <summary>
-    Podcasts
-  </summary
-    <br />
-    <br />
-    
-   - [Ubuntu Podcast](https://ubuntupodcast.org) - Latest news and issues facing Ubuntu users and Free Software fans in general.
-   - [Command Line Heroes](https://www.redhat.com/en/command-line-heroes) - Epic true tales of how developers, programmers, hackers, geeks, and open source rebels are revolutionizing the technology landscape.
-   - [The README Podcast](https://github.com/readme/podcast)- On The ReadME Podcast, we take a look behind the scenes of the most impactful open source projects and the developers who make them happen.
-   - [FLOSS Weekly](https://twit.tv/shows/floss-weekly) - FLOSS all about Free Libre Open Source Software with talks with the most interesting and important people in the Open Source and Free Software community.
-   - [The Open Source Way](https://podcasts.google.com/feed/aHR0cHM6Ly9wb2RjYXN0Lm9wZW5zYXAuaW5mby9vcGVuLXNvdXJjZS13YXkvZmVlZC9tcDMv?ep=14) - This podcast is about the difference, value or drop that open source can be. Each episode we talk with experts about open source related topics and why they do it the open source way.
-   - [The Changelog: Software Development, Open Source](https://podcasts.google.com/feed/aHR0cHM6Ly9jaGFuZ2Vsb2cuY29tL3BvZGNhc3QvZmVlZA) - Conversations with the hackers, leaders, and innovators of the software world. This is a polyglot podcast. All programming languages, platforms, and communities are welcome. Open source moves fast. Keep up.
-   - [LINUX Unplugged](https://podcasts.google.com/feed/aHR0cHM6Ly9saW51eHVucGx1Z2dlZC5jb20vcnNz) - An open show powered by community LINUX Unplugged takes the best attributes of open collaboration and turns it into a weekly show about Linux.
-   - [Linux Weekly Daily Wednesday](https://podcasts.google.com/feed/aHR0cHM6Ly9saW51eGdhbWVjYXN0LmNvbS9mZWVkL2x3ZHdtcDMv) - A weekly dose of all thing Linux and open source with a slice of Pi for good measure.
-   - [Open Source – Software Engineering Daily](https://podcasts.google.com/feed/aHR0cHM6Ly9zb2Z0d2FyZWVuZ2luZWVyaW5nZGFpbHkuY29tL2NhdGVnb3J5L29wZW4tc291cmNlL2ZlZWQv?sa=X&ved=0CAMQ4aUDahcKEwig76j7qfzxAhUAAAAAHQAAAAAQDg) - Open source technology episodes of Software Engineering Daily. At the gym or on your commute, you can listen to long-form interviews about software engineering. After every episode, you should feel like you are 1% better at understanding how the software works.
-   - [Reality 2.0](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cucmVhbGl0eTJjYXN0LmNvbS9yc3M) - Join Linux and Open Source advocates, Doc Searls and Katherine Druckman, as they navigate the new digital world, covering topics related to Linux and Open Source, as well as digital privacy, security, and other current issues.
-   - [Impactful Open Source](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5maXJlc2lkZS5mbS9pbXBhY3RmdWxvcGVuc291cmNlL3Jzcw) - We seek out stories of open source successes, moving from beyond source code and into the world at large. We focus on code that didn't just turn into a large enterprise business, but which passed through universities, cities, governments, and the world to make a real difference in people's lives. Our guests are open sorcerers, academics, open-source program officers, and everyone in between.
-   - [The Craft Of Open Source](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5wb2RldGl6ZS5jb20vcnNzLy1tUmxFdmJ6dQ?ep=14) - This bi-weekly show is focused on the ins and outs of the Open Source Software Community. Join Ben as he speaks with the brightest minds that have brought us some of the most adopted technologies on earth. Each episode is an interview with creators, maintainers, entrepreneurs, and key contributors to the open-source community.
-   - [Open Source For Business](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8yZWI0ZTczMC9wb2RjYXN0L3Jzcw?sa=X&ved=0CBYQ27cFahcKEwjgis64qvzxAhUAAAAAHQAAAAAQFw) - Your company uses open-source software but needs to better understand how to effectively manage it. In this podcast, Eunice Chendjou and Henry Badgery host interviews with some of the world's top experts that sit at the intersection of business and open source.
-   - [Open Source Voices](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cub3BlbnNvdXJjZXZvaWNlcy5vcmcvcnNz) - After years of producing Linux, BSD, and Other Open Source Podcasts, I came to the realization that we almost always focus on technology. It makes sense, we all love tech, that's why we are who we are. But the community we are apart of is full of varied and fascinating people that make that tech. This is my attempt to highlight the people who are helping us dream up and build the future around us.
-   - [Scotland Open Source](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvNDQyMTMyNC9lcGlzb2Rlcy9mZWVk?sa=X&ved=0CDMQ27cFahcKEwjIjrfEqbjxAhUAAAAAHQAAAAAQAg) - Scotland Open Source talks to maintainers, advocates, and companies from Scotland's vibrant open source community. Hosted by Ashley Nicolson, we have in-depth conversations on all aspects of the open-source often from the different perspectives of working full-time in its communities. We also help promote our guests and their projects and generally discuss the importance and impact of open source in the Scottish tech industry. 
-   - [Free as in Freedom](https://podcasts.google.com/feed/aHR0cDovL2ZhaWYudXMvZmVlZHMvY2FzdC1tcDMv) - A bi-weekly discussion of legal, policy, and other issues in the open-source and software freedom community (including occasional interviews) from Brooklyn, New York, USA.
-   - [Open Source Underdogs](https://podcasts.google.com/feed/aHR0cHM6Ly9vcGVuc291cmNldW5kZXJkb2dzLmNvbS9mZWVkLw?ep=14) - A podcast for entrepreneurs about open-source software. In each episode, we chat with a founder or leader to explore how they are building thriving businesses around open-source software. Our goal is to demystify how entrepreneurs can stay true to their open-source objectives while also building sustainable, profitable businesses that fuel innovation and ensure longevity.
-   - [Open Source Creative](https://podcasts.google.com/feed/aHR0cDovL2ZhaWYudXMvZmVlZHMvY2FzdC1tcDMv) - A weekly podcast where I ramble about creativity, process, and open-source software. The show features in-depth discussions about the nature of open-source software and how it relates to doing creative work. And interviews!
-   - [The Binary Times Audiocast](https://podcasts.google.com/feed/aHR0cHM6Ly90aGViaW5hcnl0aW1lcy5uZXQvcnNzLW9nZy54bWw) - Linux and open-source tips, tricks, and discussion. Free software, hardware, and modern culture. 
-   - [FLOSS For Science](https://podcasts.google.com/feed/aHR0cHM6Ly9mbG9zc2ZvcnNjaWVuY2UuZ2l0aHViLmlvL2ZlZWQueG1s) - Interviews with scientists who are using or developing free and libre open-source software. 
-   - [Breaking Into Open Source](https://podcasts.google.com/feed/aHR0cHM6Ly9icmVha2luZ29zLmxpYnN5bi5jb20vcnNz) - Have you ever wondered what would it be to contribute to open-source software? Or is curious about how to get started? Well, wonder no more! In this podcast we let Bob and Josh take us through the tour of the wonderful world of open source, as seen through developers. 
-   - [Humans Of Open Source](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80MDU1MjRjOC9wb2RjYXN0L3Jzcw) - A podcast where we explore the human side of working on open-source software. We talk to contributors about how, what, and why they contribute in order to uncover the human element behind the open-source communities that power our digital infrastructure.
-   - [Open Source System Podcast](https://podcasts.google.com/feed/aHR0cDovL29wZW5zb3VyY2VzeXN0ZW1wb2RjYXN0LnZmLmlvL2ZlZWQv?sa=X&ved=0CCIQ27cFahcKEwjIjrfEqbjxAhUAAAAAHQAAAAAQAg) - The Open Source System Podcast brings you the latest open source projects and news. We try to focus only on open source software and cover projects that are created in any programming language. If you have a goal to become more involved with open source software then this podcast is for you!
-   - [Sustain Podcast](https://podcast.sustainoss.org) - Sustain brings together practitioners, sustainers, funders, researchers and maintainers of the open source ecosystem. We have conversations about the health and sustainability of the open source community. We learn about the ins and outs of what ‘open source’ entails in the real world.
-  
-</details>
 
 <details>
   <summary>
@@ -321,10 +314,10 @@
     <br />
     <br />
     
-   - [Effective Documentation: The Key to Open Source Growth](https://slides.com/bolajiayodeji/effective-oss-docs)
+   - [Effective Documentation: The Key to Open Source Growth](https://slides.com/ayodeji/effective-oss-docs)
    - [The Values of Open Source](https://speakerdeck.com/campoy/the-values-of-open-source)
-   - [Version Control with Git and GitHub](https://slides.com/bolajiayodeji/version-control-with-git-and-github)
-   - [Introduction to Open Source](https://slides.com/bolajiayodeji/demystifying-open-source)
+   - [Version Control with Git and GitHub](https://slides.com/ayodeji/version-control-with-git-and-github)
+   - [Introduction to Open Source](https://slides.com/ayodeji/demystifying-open-source)
    
 </details>
 
