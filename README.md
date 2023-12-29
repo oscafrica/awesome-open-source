@@ -325,3 +325,8 @@
 
 ## Contributing
 Found an awesome open source resource? Kindly send a pull request and follow the [contributors guidelines](/CONTRIBUTING.md).
+
+## License
+[Awesome Open Source](https://github.com/oscafrica/awesome-open-source) © 2020 by [Open Source Community Africa](https://oscafrica.org) is licensed under [Attribution 4.0 International]().
+
+<img style="height:30px!important" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"> <img style="height:30px!important" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1">
