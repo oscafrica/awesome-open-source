@@ -43,6 +43,8 @@
    - [DVS Tech Community](https://github.com/dvstechlabs)
    - [KDE Community](https://community.kde.org)
    - [FOSS Asia](https://fossasia.org)
+   - [Tublian Community](https://tublian.com)
+   - [Angola Open Source Community](https://aosc.social/)
     
 </details>
   
@@ -67,6 +69,7 @@
    - [24 Pull Requests](https://24pullrequests.com) - A collection of OSS projects tickets that are good for new contributors and guides for contributing.
    - [Issue Hub](https://issuehub.pro/) - Contribute to open source by searching issue labels to find the right project for you.
    - [Pull Request Roulette](https://pullrequestroulette.com) - A list of pull requests submitted for review, belonging to open source projects hosted on GitHub.
+   - [Tublian](https://tublian.com) - Tublian is a community-based software developer marketplace. With [streetcred](https://www.tublian.com/streetcred), he is building the next generation of 10x developers and changing how companies hire software developers.
    
 </details>
 
@@ -155,6 +158,9 @@
    - [Open Source Projects](https://www.upgrad.com/blog/tag/open-source-projects/)
    - [Open Source Projects Ideas](https://www.upgrad.com/blog/tag/open-source-project-ideas/)
    - [Everything Open Source](https://logique.hashnode.dev/everything-open-source-cky8brlwv0rxd5ns1c3jn61aw)
+   - [A Pratical Guide to Start Open Source Contribution](https://www.freecodecamp.org/news/a-practical-guide-to-start-opensource-contributions/)
+   - [What Is Open Source](https://devlog.tublian.com/what-is-open-source)
+   - [Chrissy's Open Source Survival Guide](https://chrissycodes.hashnode.dev/series/open-source-tips)
    
 </details>
 
@@ -240,6 +246,8 @@
    - [I want you to contribute to open source](https://www.youtube.com/watch?v=hwdeUG_gySI)
    - [Complete Guide to Open Source Contributions](https://www.youtube.com/watch?v=RHETubkhjY8&list=PLR0CKdeR_FyscaxEksDVXc4UQvlOFLYS6&t=0s)
    - [Get started with Open Source](https://www.youtube.com/watch?v=Y5HIJeR9hk0)
+   - [Unlock the Value of Open Source With Open Sauced – Open Source Friday](https://www.youtube.com/watch?v=BaIjOw1K5JY)
+   - [Tublian Masterclass: How To Contribute to Open Source](https://www.youtube.com/watch?v=eqCNEG4V4T8)
    
 </details>
   
@@ -287,6 +295,7 @@
    - [How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
    - [Identifying How to Contribute to an Open Source Project on GitHub](https://egghead.io/lessons/javascript-identifying-how-to-contribute-to-an-open-source-project-on-github)
    - [Introduction to Open Source](https://www.codecademy.com/learn/introduction-to-open-source)
+   - [Intro to Open Source with OpenSauced](https://intro.opensauced.pizza/#/)
    
 </details>
 
@@ -302,6 +311,7 @@
    - [Sustain Africa](http://festival.oscafrica.org/sustain-africa)
    - [Open Source Summit Japan](https://events.linuxfoundation.org/open-source-summit-japan)
    - [FOSSASIA Open Tech Summit](https://events.fossasia.org)
+   - [Angola Open Source Festival](https://fest.aosc.social/)
    
 </details>
   
