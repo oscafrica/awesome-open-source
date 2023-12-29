@@ -1,6 +1,10 @@
-# [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) Open Source
-
+<div align="center">
+  
 ![](https://repository-images.githubusercontent.com/283972796/ccf68e00-d30c-11ea-9a44-9bd671232ecc)
+
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Made in Africa](https://img.shields.io/badge/Made%20in-Africa-008751.svg?style=flat-square)](https://github.com/oscafrica/awesome-open-source)
+
+</div>
 
 ---
 
@@ -14,10 +18,10 @@
    - [Projects for new contributors](https://github.com/showcases/great-for-new-contributors) - A collection of projects that have a history and reputation for being welcoming to new open-source contributors.
    - [Tools for Open Source](https://github.com/collections/tools-for-open-source) - A collection of software to make running your open source project a little bit easier.
    - [Open Source Programs](https://github.com/tapaswenipathak/Open-Source-Programs) — A detailed list of paid and unpaid open source programs and internships.
-   - [Made in Nigeria](https://github.com/acekyd/made-in-nigeria) — A curation of awesome tools built by Nigerians.
-   - [Made in Kenya](https://github.com/MadeInKenya/madeinkenya.github.io) — A curation of awesome tools built by Kenyans.
-   - [Made in Ghana](https://github.com/viclotana/MadeInGhana) — A curation of awesome tools built by Ghanaians.
-   - [Made in Zambia](https://github.com/ZambianTech/made-in-zambia) — A curation of awesome tools built by Zambians.
+   - [Made in Nigeria](https://github.com/acekyd/made-in-nigeria) — A curation of awesome tools built by Nigerians 🇳🇬.
+   - [Made in Kenya](https://github.com/MadeInKenya/madeinkenya.github.io) — A curation of awesome tools built by Kenyans 🇰🇪.
+   - [Made in Ghana](https://github.com/viclotana/MadeInGhana) — A curation of awesome tools built by Ghanaians 🇬🇭.
+   - [Made in Zambia](https://github.com/ZambianTech/made-in-zambia) — A curation of awesome tools built by Zambians 🇿🇲.
     
 </details>
 
@@ -32,11 +36,36 @@
    - [Open Source Initiative](https://opensource.org)
    - [The Linux Foundation](https://www.linuxfoundation.org)
    - [GNOME Community](https://wiki.gnome.org/Community)
-   - [EddieHub](https://github.com/EddieHubCommunity)
+   - [EddieHub Community](https://github.com/EddieHubCommunity)
    - [OSS Cameroon](https://github.com/osscameroon)
    - [DVS Tech Community](https://github.com/dvstechlabs)
    - [KDE Community](https://community.kde.org)
+   - [FOSS Asia](https://fossasia.org)
     
+</details>
+  
+<details>
+  <summary>
+    Useful Tools
+  </summary
+    <br />
+    <br />
+    
+   - [Awesome Open Source](https://awesomeopensource.com) - Find and compare 326,000+ open source projects.
+   - [Open Sauced](https://opensauced.pizza) - An intelligence platform for OSS developers and maintainers with deep insights.
+   - [FossFox OSS Jobs](https://fossfox.com) - Work with open-source and get paid for it by finding products hiring engineering talent.
+   - [Open Collective](https://opencollective.com) - Manage your finances so everyone can see where money comes from and where it goes.
+   - [CodeTriage](https://codetriage.com) - Personalized OSS issues delivered directly to your inbox. 
+   - [Good First Issue](https://goodfirstissue.dev) - A collection of easy pickings from popular OSS projects.
+   - [Good First Issues](https://goodfirstissues.com) - Find great OSS projects, discover issues and repositories with good first issue and help wanted labels.
+   - [Up For Grabs](https://up-for-grabs.net) - A list of projects which have curated tasks specifically for new contributors.
+   - [First Contributions](https://firstcontributions.github.io) - A hands-on tutorial that walks you through contributions workflow on GitHub.
+   - [Contributor Ninja](https://contributor.ninja) - A platform to find GitHub issues in several languages.
+   - [Gauger](https://gauger.io/contrib) - Find beginner friendly OSS projects to work on.
+   - [24 Pull Requests](https://24pullrequests.com) - A collection of OSS projects tickets that are good for new contributors and guides for contributing.
+   - [Issue Hub](https://issuehub.pro/) - Contribute to open source by searching issue labels to find the right project for you.
+   - [Pull Request Roulette](https://pullrequestroulette.com) - A list of pull requests submitted for review, belonging to open source projects hosted on GitHub.
+   
 </details>
 
 <details>
@@ -110,70 +139,7 @@
    - [Everything Open Source](https://logique.hashnode.dev/everything-open-source-cky8brlwv0rxd5ns1c3jn61aw)
    
 </details>
-  
-<details>
-  <summary>
-    Courses
-  </summary
-    <br />
-    <br />
-    
-   - [How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
-   - [Identifying How to Contribute to an Open Source Project on GitHub](https://egghead.io/lessons/javascript-identifying-how-to-contribute-to-an-open-source-project-on-github)
-   - [Introduction to Open Source](https://www.codecademy.com/learn/introduction-to-open-source)
-   
-</details>
-  
-<details>
-  <summary>
-    Useful Tools
-  </summary
-    <br />
-    <br />
-    
-   - [Awesome Open Source](https://awesomeopensource.com) - Find Open Source By Searching, Browsing 326,000+ Projects.
-   - [Open Sauced](https://opensauced.pizza) - Open Sauced provides guidance onboarding for new contributor through GitHub GraphQL API powered dashboard.
-   - [Open Collective](https://opencollective.com) - Open Collective lets you manage your finances so everyone can see where money comes from and where it goes.
-   - [CodeTriage](https://www.codetriage.com/) - CodeTriage helps by picking a handful of open issues and delivering them directly to your inbox. After you sign up for CodeTriage, you pick the repos you want to help with, and we periodically send you issues. 
-   - [goodfirstissue.dev](https://goodfirstissue.dev/) - Curates easy pickings from popular open-source projects, and helps you make your first contribution to open-source.
-   - [goodfirstissues.com](https://goodfirstissues.com/) -  A site made for new contributors to find great Open Source projects, discover issues and repositories with good first issue and help wanted labels.
-   - [Up For Grabs](https://up-for-grabs.net/) - This is a list of projects which have curated tasks specifically for new contributors. These are a great way to get started with a project, or to help share the load of working on open source projects.
-   - [First Contributions](https://firstcontributions.github.io/) - A hands-on tutorial that walks you through contributions workflow on GitHub. It help beginners to contribute to open source projects.
-   - [Contributor Ninja](https://contributor.ninja/) - A platform to find issues in several languages to fix on GitHub.
-   - [Gauger](https://gauger.io/contrib) - With this site, you can find beginner friendly open source projects to work on.
-   - [24 Pull Requests](https://24pullrequests.com/) - 24 Pull Requests' goal is to encourage contribution to open source projects during December. The site suggests open projects, highlights tickets that are good for new contributors, provides guides for contributing and promotes good contributions submitted each day.
-   - [Issue Hub](http://issuehub.pro/) - Contribute to open source by searching issue labels to find the right project for you!
-   - [Pull Request Roulette](http://www.pullrequestroulette.com/) - On this site, there's a list of pull requests submitted for review, belonging to open source projects hosted on GitHub.
-   
-</details>
-  
-<details>
-  <summary>
-    Conferences
-  </summary
-    <br />
-    <br />
-    
-   - [Open Source Festival](http://festival.oscafrica.org)
-   - [Sustain Summit](https://sustainoss.org/events/)
-   - [Open Source Summit Japan](https://events.linuxfoundation.org/open-source-summit-japan/program/cfp/)
-   
-</details>
-  
-<details>
-  <summary>
-    Speaker Decks
-  </summary
-    <br />
-    <br />
-    
-   - [Effective Documentation: The Key to Open Source Growth](https://slides.com/bolajiayodeji/effective-oss-docs)
-   - [The Values of Open Source](https://speakerdeck.com/campoy/the-values-of-open-source)
-   - [Version Control with Git and GitHub](https://slides.com/bolajiayodeji/version-control-with-git-and-github)
-   - [Introduction to Open Source](https://slides.com/bolajiayodeji/demystifying-open-source)
-   
-</details>
-  
+
 <details>
   <summary>
     Books
@@ -291,6 +257,48 @@
    - [Open Source System Podcast](https://podcasts.google.com/feed/aHR0cDovL29wZW5zb3VyY2VzeXN0ZW1wb2RjYXN0LnZmLmlvL2ZlZWQv?sa=X&ved=0CCIQ27cFahcKEwjIjrfEqbjxAhUAAAAAHQAAAAAQAg) - The Open Source System Podcast brings you the latest open source projects and news. We try to focus only on open source software and cover projects that are created in any programming language. If you have a goal to become more involved with open source software then this podcast is for you!
    - [Sustain](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5maXJlc2lkZS5mbS9zdXN0YWluL3Jzcw?sa=X&ved=0CDIQ27cFahcKEwjIjrfEqbjxAhUAAAAAHQAAAAAQAg) - Sustain brings together practitioners, sustainers, funders, researchers and maintainers of the open source ecosystem. We have conversations about the health and sustainability of the open source community. We learn about the ins and outs of what ‘open source’ entails in the real world.
   
+</details>
+
+<details>
+  <summary>
+    Courses
+  </summary
+    <br />
+    <br />
+    
+   - [How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
+   - [Identifying How to Contribute to an Open Source Project on GitHub](https://egghead.io/lessons/javascript-identifying-how-to-contribute-to-an-open-source-project-on-github)
+   - [Introduction to Open Source](https://www.codecademy.com/learn/introduction-to-open-source)
+   
+</details>
+
+<details>
+  <summary>
+    Conferences
+  </summary
+    <br />
+    <br />
+    
+   - [Open Source Festival](http://festival.oscafrica.org)
+   - [Sustain Summit](https://sustainoss.org/events)
+   - [Sustain Africa](http://festival.oscafrica.org/sustain-africa)
+   - [Open Source Summit Japan](https://events.linuxfoundation.org/open-source-summit-japan)
+   - [FOSSASIA Open Tech Summit](https://events.fossasia.org)
+   
+</details>
+  
+<details>
+  <summary>
+    Speaker Decks
+  </summary
+    <br />
+    <br />
+    
+   - [Effective Documentation: The Key to Open Source Growth](https://slides.com/bolajiayodeji/effective-oss-docs)
+   - [The Values of Open Source](https://speakerdeck.com/campoy/the-values-of-open-source)
+   - [Version Control with Git and GitHub](https://slides.com/bolajiayodeji/version-control-with-git-and-github)
+   - [Introduction to Open Source](https://slides.com/bolajiayodeji/demystifying-open-source)
+   
 </details>
 
 ## Contributing
