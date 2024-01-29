@@ -27,6 +27,7 @@
    - [Made in Kenya](https://github.com/MadeInKenya/madeinkenya.github.io) — A curation of awesome tools built by Kenyans 🇰🇪.
    - [Made in Ghana](https://github.com/viclotana/MadeInGhana) — A curation of awesome tools built by Ghanaians 🇬🇭.
    - [Made in Zambia](https://github.com/ZambianTech/made-in-zambia) — A curation of awesome tools built by Zambians 🇿🇲.
+   - [Made in Cameroon](https://osscameroon.com/projects) — A curation of awesome tools built by Cameroonians 🇨🇲.
     
 </details>
 
