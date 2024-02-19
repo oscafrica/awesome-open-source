@@ -14,41 +14,29 @@
 
 <details>
   <summary>
-    Start Here ⚠️
+    <b>Start Here ⚠️</b>
   </summary
     <br />
     <br /> 
-    
-   - [Projects for new contributors](https://github.com/showcases/great-for-new-contributors) - A collection of projects that have a history and reputation for being welcoming to new open-source contributors.
-   - [Tools for Open Source](https://github.com/collections/tools-for-open-source) - A collection of software to make running your open source project a little bit easier.
+
+  ### Quick Start
+   - [Projects for New Contributors](https://github.com/showcases/great-for-new-contributors) - A collection of projects that have a history and reputation for being welcoming to new contributors.
    - [Open Source Programs](https://github.com/tapaswenipathak/Open-Source-Programs) — A detailed list of paid and unpaid open source programs and internships.
-   - [Open Source Guides](https://opensource.guide) - A collection of guides that will teach you how to launch and grow your open source project.
+   - [Open Source Guides](https://opensource.guide) - A collection of guides that will teach you how to launch and grow your open-source project.
+   - [Tools for Open Source](https://github.com/collections/tools-for-open-source) - A collection of software to make running your open source project a little bit easier.
+
+  ### Countries Collections
    - [Made in Nigeria](https://github.com/acekyd/made-in-nigeria) — A curation of awesome tools built by Nigerians 🇳🇬.
    - [Made in Kenya](https://github.com/MadeInKenya/madeinkenya.github.io) — A curation of awesome tools built by Kenyans 🇰🇪.
    - [Made in Ghana](https://github.com/viclotana/MadeInGhana) — A curation of awesome tools built by Ghanaians 🇬🇭.
    - [Made in Zambia](https://github.com/ZambianTech/made-in-zambia) — A curation of awesome tools built by Zambians 🇿🇲.
    - [Made in Cameroon](https://osscameroon.com/projects) — A curation of awesome tools built by Cameroonians 🇨🇲.
-    
-</details>
 
-<details>
-  <summary>
-    Communities
-  </summary
-    <br />
-    <br />
-    
-   - [Open Source Community Africa](https://oscafrica.org)
-   - [Open Source Initiative](https://opensource.org)
-   - [The Linux Foundation](https://www.linuxfoundation.org)
-   - [GNOME Community](https://wiki.gnome.org/Community)
-   - [EddieHub Community](https://github.com/EddieHubCommunity)
-   - [OSS Cameroon](https://github.com/osscameroon)
-   - [DVS Tech Community](https://github.com/dvstechlabs)
-   - [KDE Community](https://community.kde.org)
-   - [FOSS Asia](https://fossasia.org)
-   - [Tublian Community](https://tublian.com)
-   - [Angola Open Source Community](https://aosc.social)
+  ### Funding and Support
+   - [Sequoia’s Open Source Fellowship](https://sequoiacap.com/oss) - A fellowship to support OSS creators with projects that have real-world adoption.
+   - [OSS Capital](https://oss.capital) — An early-stage VC exclusively dedicated to backing leading COSS (commercial open source) startup founders.
+   - [Awesome OSS Monetization](https://github.com/PayDevs/awesome-oss-monetization) — A curated list of awesome monetization approaches for open-source software.
+   - [10 Funding Opportunities For Your Open Source Project](https://fundedby.community/funding-open-source-projects/) — A reference guide on how to get the community to fund your OSS project.
     
 </details>
   
@@ -90,6 +78,27 @@
    - [Google Cloud Research Credits](https://edu.google.com/programs/credits/research)
    - [Assured Open Source Software](https://cloud.google.com/security/products/assured-open-source-software)
    
+</details>
+
+<details>
+  <summary>
+    Communities
+  </summary
+    <br />
+    <br />
+    
+   - [Open Source Community Africa](https://oscafrica.org)
+   - [Open Source Initiative](https://opensource.org)
+   - [The Linux Foundation](https://www.linuxfoundation.org)
+   - [GNOME Community](https://wiki.gnome.org/Community)
+   - [EddieHub Community](https://github.com/EddieHubCommunity)
+   - [OSS Cameroon](https://github.com/osscameroon)
+   - [DVS Tech Community](https://github.com/dvstechlabs)
+   - [KDE Community](https://community.kde.org)
+   - [FOSS Asia](https://fossasia.org)
+   - [Tublian Community](https://tublian.com)
+   - [Angola Open Source Community](https://aosc.social)
+    
 </details>
 
 <details>
