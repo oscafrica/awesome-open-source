@@ -69,6 +69,8 @@
    - [Awesome OSS Monetization](https://github.com/PayDevs/awesome-oss-monetization) — A curated list of awesome monetization approaches for open-source software.
    - [10 Funding Opportunities For Your Open Source Project](https://fundedby.community/funding-open-source-projects/) — A reference guide on how to get the community to fund your OSS project.
    - [COSS Playbook](https://github.com/heathermeeker/COSSPlaybook/blob/main/Playbook.MD) — Steps and considerations to create a commercial open source business.
+   - [The Sovereign Tech Fund](https://sovereigntechfund.de/programs) — STF supports the development, improvement, and maintenance of open digital infrastructure with the goal of sustainably strengthening the open-source ecosystem.
+   - [Fellowship for Maintainers](https://sovereigntechfund.de/programs/fellowship) — A pilot program to pay maintainers of critical open-source technologies.
 
 </details>
 
